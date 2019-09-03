@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reading Pal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pronounce_button">Pronounce word</string>
+    <string name="spell_button">Spell word</string>
+    <string name="context_button">Use word in a sentence</string>
+</resources>
