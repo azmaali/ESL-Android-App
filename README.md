@@ -17,13 +17,5 @@ The following user stories are in the progress:
 - [ ] User can add word to pronunication/spelling list for future reference.
 - [ ] User can create a pronunciation/spelling quiz from respective list and save list. 
 
- 
-## Open-Source Libraries Used
-
-### Front-end 
-* JQuery 
-* Bootstrap 
-
-### Back-end
-* Socket.io
-* Firebase 
+## Walkthrough of Completed User Stories 
+![Alt Text](https://thumbs.gfycat.com/CavernousBowedIbizanhound-size_restricted.gif)
